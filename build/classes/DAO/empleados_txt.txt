@@ -1,0 +1,9 @@
+David,Perez,pass,usuario,si
+David,Perezs,pass,usuario,si
+David,Perezs,si,usuario,pass
+Joselito,El hoyo,bsdfh,si,xd
+Joselito,El admin,bsdfh,si,xd
+Joselito,El admin,xd,si,bsdfh
+nombre2,apellido3,contra3,usuario3,curp3
+nombre2,apellido3,curp3,usuario3,contra3
+Eleon,Bojorquez,contraseña,eleon,jbñsjfb

@@ -1,0 +1,5 @@
+Obra,Primer actor,segundo actor,genero,resumen,42.0,400
+La sirenita,Liam Neeson,Vin Diesel,Tragicomedia,resumen,45.0,45
+Blancanieves,Florence Pugh,MrBeast,Masculino,Zapatillas de vidrio,6.0,5
+Caperucita,Samuel Jackson,Tennoch Huerta,Fantasia,Caperucita y el lobo es una obra que...,55.0,128
+Hamilton,Hamilton jaja,Pues nadie,Ciencia ficción,resumen,24.0,65
