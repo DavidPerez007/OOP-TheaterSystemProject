@@ -1,0 +1,4 @@
+ADmin2,Apellido,fff,usuarioAdmin,cuuurp
+nombre,apelido,contra,username2,curp
+nombre2,apellido2,curp2,username2,contra2
+Jose,Ildefonso,contra,JoseIld,currp
